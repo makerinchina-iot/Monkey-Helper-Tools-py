@@ -1,0 +1,10 @@
+hid==1.0.5
+hidapi==0.11.0.post2
+intelhex==2.3.0
+psutil==5.9.0
+PySide2==5.15.2.1
+pywin32==225
+pywin32_ctypes==0.2.0
+qtmodern==0.2.0
+system_hotkey==1.0.3
+win32gui==221.6
