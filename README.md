@@ -1,6 +1,8 @@
 # Monkey-Helper-Tools-py
 Some little tools that might help me in my development, write in python code.
 
+#### note and details: https://makerinchina.cn/categories/Python/
+
 - [x] pyside start
 
 this is just a very simple example to use pyside.
